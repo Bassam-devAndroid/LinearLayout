@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_card">8dp</dimen>
+    <dimen name="margin_side_card">16dp</dimen>
+    <dimen name="margin_photo">12dp</dimen>
+    <dimen name="margin_side_photo">12dp</dimen>
+    <dimen name="margin_layout">16dp</dimen>
+    <dimen name="margin_top_text">8dp</dimen>
+    <dimen name="margin_location">4dp</dimen>
+    <dimen name="margin_review">8dp</dimen>
+    <dimen name="hour_margin">16dp</dimen>
+</resources>
